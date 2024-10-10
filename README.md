@@ -104,5 +104,4 @@ Random Proxy Assignment The script will assign a proxy from the list for each ac
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-For questions or support, please contact [ https://t.me/DeeplChainSup ]
+
